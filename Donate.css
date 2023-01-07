@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    font-family: poppins;
+}
+.banner{
+    background-image:url('images/donation1.jpg');
+    
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size:cover;
+    text-align: center;
+}
+.Header-title{
+    color: #fff;
+    font-size: 70px;
+    font-weight: 600;
+    padding-top: 200px !important;
+    padding: 0 250px;
+    
+}
+.header-description{
+    color:#fff;
+    padding: 20px 400px;
+    font-size: 18;
+
+}
+.Donate{
+    color: #fff;
+    background-color: #ff0040;
+    border: none;
+    font-size: 18px;
+    font-weight: 500;
+    padding: 15px 30px;
+    border-radius: 5px;
+    margin-bottom: 100px;
+}
