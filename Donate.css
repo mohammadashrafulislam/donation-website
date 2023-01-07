@@ -2,6 +2,7 @@
     margin: 0;
     font-family: poppins;
 }
+/* Header Section Style */
 .banner{
     background-image:url('images/donation1.jpg');
     
@@ -33,4 +34,41 @@
     padding: 15px 30px;
     border-radius: 5px;
     margin-bottom: 100px;
+}
+
+/* Donation Section Style */
+.donation-money{
+    text-align: center;
+}
+.section-title{
+    font-size: 45px;
+    font-weight: 700;
+    padding-top: 100px;
+}
+.section-Description{
+    font-size: 18px;
+    color: #5c5b5b;
+    padding: 15px 350px;
+}
+.box-details{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 20px 450px;
+}
+.box-items{
+    color:#5c5b5b;
+    font-size: 30px;
+    font-weight: 600;
+    background-color: #dcdcdc46;
+    padding: 40px;
+    border-radius: 5px;
+}
+
+.input-amount{
+    font-size: 18px;
+    border: 0;
+    border-bottom: 1px solid #5c5b5b3f;
+    padding: 10px 200px;
+    text-align: center;
 }
