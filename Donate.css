@@ -51,6 +51,10 @@
     color: #5c5b5b;
     padding: 15px 350px;
 }
+.box-items:hover {
+    border: 1px solid #FF0040;
+    color:  #FF0040;
+}
 .box-details{
     display: flex;
     justify-content: center;
