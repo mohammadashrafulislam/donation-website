@@ -4,7 +4,7 @@
 }
 /* Header Section Style */
 .banner{
-    background-image:url('images/donation1.jpg');
+    background-image: linear-gradient(to bottom, rgb(60, 60, 60), rgb(240, 240, 240)), url('images/donation1.jpg');
     
     background-repeat: no-repeat;
     background-position: center bottom;
